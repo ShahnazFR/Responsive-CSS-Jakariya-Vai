@@ -19,7 +19,7 @@ footer{
 }
 .upper-footer>div{
     width: 23%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     flex-basis: 200px;
 }
 .input-text,.submit-btn{
@@ -49,7 +49,7 @@ footer{
     flex-wrap: wrap;
 }
 .lower-footer div{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     flex-basis: 300px;
 }
 .lower-footer>div a{
